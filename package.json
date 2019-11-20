@@ -9,6 +9,6 @@
   "author": "Tiago Donizete dos Santos",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.0"
+    "angular": "^1.7.9"
   }
 }
